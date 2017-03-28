@@ -14,3 +14,4 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 + Keep line lengths optimal (legible)
 + Keep statuses/alerts/types concise and to the point
 + Color should be used sparingly where it matters. 
+ 
